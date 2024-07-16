@@ -8,3 +8,6 @@ C-SCAN
 
 
 *python DiskScheduling.py <initial_position> <requests_file>
+
+
+You can run the request.py to generate the random integers
